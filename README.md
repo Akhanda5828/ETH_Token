@@ -86,7 +86,7 @@ Now inorder for the Deployment to work we have to enter the TokenName and TokenA
 ## Authors
 
 Akhanda Pal Biswas
-[@metacraftersio](https://www.linkedin.com/in/akhanda-pal-biswas-445a88230/)
+[@Chandigarh University](https://www.linkedin.com/in/akhanda-pal-biswas-445a88230/)
 
 
 ## License
